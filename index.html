@@ -71,10 +71,9 @@
         }).done(function(data){
           var content = marked(data);
           $target.append(content);
-
           Lockr.set(current_version, content);
         }).fail(function(data){
-            $target.append("This content failed to load.");
+          $target.append("This content failed to load.");
         });
       });
     </script>
