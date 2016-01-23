@@ -1,5 +1,7 @@
 # About me
 
+<img src="img/prof.jpg" width="240">
+
 Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 
 #### Occupation

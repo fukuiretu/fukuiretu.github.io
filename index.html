@@ -52,26 +52,26 @@
 
     <script>
       $(function(){
-        var pre_version     = '0.0.1';
-        var current_version = '0.0.2';
+        // var pre_version     = '0.0.3';
+        // var current_version = '0.0.4';
         var $target         = $("#markdown_content");
 
-        if (Lockr.get(pre_version) != null) {
-          Lockr.rm(pre_version);
-        }
-
-        var content = Lockr.get(current_version);
-        if (content != null) {
-          $target.append(content);
-          return;
-        }
+        // if (Lockr.get(pre_version) != null) {
+        //   Lockr.rm(pre_version);
+        // }
+        //
+        // var content = Lockr.get(current_version);
+        // if (content != null) {
+        //   $target.append(content);
+        //   return;
+        // }
 
         $.ajax({
           url: $target.attr("src")
         }).done(function(data){
           var content = marked(data);
           $target.append(content);
-          Lockr.set(current_version, content);
+          // Lockr.set(current_version, content);
         }).fail(function(data){
           $target.append("This content failed to load.");
         });
