@@ -2,7 +2,15 @@
 
 Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 
-Occupation: Software Engineer
+#### Occupation
+Software Engineer
+
+### Favorite Technology
+- [Ruby on Rails](http://rubyonrails.org/)
+- [Fluentd](http://www.fluentd.org/)
+- [AWS](https://aws.amazon.com)
+
+
 
 ## Portfolio
 
@@ -25,12 +33,16 @@ https://rubygems.org/profiles/fukuiretu
 ### Service
 
 ##### awe - awesome idea sharing tool
-- https://itunes.apple.com/jp/app/awe-awesome-idea-sharing-tool/id992281167?mt=8
+- iOS (https://itunes.apple.com/jp/app/awe-awesome-idea-sharing-tool/id992281167?mt=8)
 
-I responsible for the API and Infrastructure.
+*I responsible for the API and Infrastructure.*
 
 - https://github.com/sekainohajimari/ikyusan-api
 - https://github.com/sekainohajimari/ikyusan-infra
+
+### Writings
+- Hatena Blog (http://f-retu.hatenablog.com/)
+- Qiita (http://qiita.com/fukuiretu)
 
 
 
@@ -38,6 +50,5 @@ I responsible for the API and Infrastructure.
 - Twitter (https://twitter.com/fukuiretu)
 - Facebook (https://www.facebook.com/takeshi.fukui.39)
 - GitHub (https://github.com/fukuiretu)
-- Qiita (http://qiita.com/fukuiretu)
 - Stargzr (https://stargzr.net/)
 - Gmail (fukuiretu@gmail.com)
