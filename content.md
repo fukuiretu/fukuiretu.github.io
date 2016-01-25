@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 # About me
 
 <img src="img/prof.jpg" width="240">
@@ -32,7 +33,7 @@ https://rubygems.org/profiles/fukuiretu
 - [factory_girl_bs_gen](https://rubygems.org/gems/factory_girl_bs_gen)
 - [itamae-plugin-recipe-atom](https://rubygems.org/gems/itamae-plugin-recipe-atom)
 
-### Service
+### Services
 
 ##### awe - awesome idea sharing tool
 - iOS (https://itunes.apple.com/jp/app/awe-awesome-idea-sharing-tool/id992281167?mt=8)
@@ -52,5 +53,6 @@ https://rubygems.org/profiles/fukuiretu
 - Twitter (https://twitter.com/fukuiretu)
 - Facebook (https://www.facebook.com/takeshi.fukui.39)
 - GitHub (https://github.com/fukuiretu)
-- Stargzr (https://stargzr.net/)
+- StackoverFlow (http://ja.stackoverflow.com/)
+- Stargzr (https://stargzr.net/users/fukuiretu)
 - Gmail (fukuiretu@gmail.com)
