@@ -7,7 +7,7 @@ Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 
 Software Engineer | Remote Worker
 
-### Favorite Technology
+##### Favorite Technology
 - [Ruby](https://www.ruby-lang.org)
 - [Ruby on Rails](http://rubyonrails.org/)
 - [Fluentd](http://www.fluentd.org/)
