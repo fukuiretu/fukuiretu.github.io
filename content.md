@@ -5,10 +5,10 @@
 
 Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 
-#### Occupation
-Software Engineer
+Software Engineer | Remote Worker
 
 ### Favorite Technology
+- [Ruby](https://www.ruby-lang.org)
 - [Ruby on Rails](http://rubyonrails.org/)
 - [Fluentd](http://www.fluentd.org/)
 - [AWS](https://aws.amazon.com)
@@ -36,23 +36,23 @@ https://rubygems.org/profiles/fukuiretu
 ### Services
 
 ##### awe - awesome idea sharing tool
-- iOS (https://itunes.apple.com/jp/app/awe-awesome-idea-sharing-tool/id992281167?mt=8)
+- [iOS](https://itunes.apple.com/jp/app/awe-awesome-idea-sharing-tool/id992281167?mt=8)
 
 *I responsible for the API and Infrastructure.*
 
-- https://github.com/sekainohajimari/ikyusan-api
-- https://github.com/sekainohajimari/ikyusan-infra
+- [ikyusan-api](https://github.com/sekainohajimari/ikyusan-api)
+- [ikyusan-infra](https://github.com/sekainohajimari/ikyusan-infra)
 
 ### Writings
-- Hatena Blog (http://f-retu.hatenablog.com/)
-- Qiita (http://qiita.com/fukuiretu)
+- [Hatena Blog](http://f-retu.hatenablog.com/)
+- [Qiita](http://qiita.com/fukuiretu)
 
 
 
 ## Social / Contact
-- Twitter (https://twitter.com/fukuiretu)
-- Facebook (https://www.facebook.com/takeshi.fukui.39)
-- GitHub (https://github.com/fukuiretu)
-- StackoverFlow (http://ja.stackoverflow.com/)
-- Stargzr (https://stargzr.net/users/fukuiretu)
-- Gmail (fukuiretu@gmail.com)
+- [Twitter](https://twitter.com/fukuiretu)
+- [Facebook](https://www.facebook.com/takeshi.fukui.39)
+- [GitHub](https://github.com/fukuiretu)
+- [StackoverFlow](http://ja.stackoverflow.com/users/13874/retu-fukui)
+- [Stargzr](https://stargzr.net/users/fukuiretu)
+- [Gmail](mailto:fukuiretu@gmail.com)
