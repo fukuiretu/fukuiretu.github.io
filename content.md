@@ -18,7 +18,6 @@ Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 将来は子連れに優しいカフェを経営し、カフェの片隅でエンジニア業に勤しむのが夢。
 ```
 <br/>
-<br/>
 
 
 
