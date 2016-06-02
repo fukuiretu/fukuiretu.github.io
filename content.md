@@ -6,7 +6,7 @@
 Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 
 ```
-1983年青森生まれのエンジニア。1児の父。
+青森生まれのソフトウェアエンジニア。1児の父。
 
 2015年3月より株式会社ピースオブケイク(http:///http://www.pieceofcake.co.jp/)に在籍。現在、青森県南津軽郡大鰐町に住まいを移しリモートワーク中。
 
