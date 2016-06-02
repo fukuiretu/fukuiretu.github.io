@@ -10,18 +10,15 @@ Fukui Retu ([@fukuiretu](https://twitter.com/fukuiretu))
 
 2015年3月より株式会社ピースオブケイク(http:///http://www.pieceofcake.co.jp/)に在籍。現在、青森県南津軽郡大鰐町に住まいを移しリモートワーク中。
 
-これまで主にWebサービスの開発・運用、モバイルネイティヴゲームアプリのAPIの開発・運用の他、データ分析基盤の構築、インフラ・デプロイの自動化等を経験。また、DAU数百万規模の高トラフィックを抱えるアプリケーションの保守・運用(AWS)も経験。
+これまで主にWebサービスの開発・運用、モバイルネイティヴゲームアプリのAPIの開発・運用の他、データ分析基盤の構築、インフラ・デプロイの自動化等を経験。
+また、DAU数百万規模の高トラフィックを抱えるアプリケーションの保守・運用(AWS)も経験。
 
 技術的にはRails, AWS, Fluentdあたりを好み、最近はGolang, ReactJSあたりにも興味あり。
 
 将来は子連れに優しいカフェを経営し、カフェの片隅でエンジニア業に勤しむのが夢。
 ```
-
-##### Favorite Technology
-- [Ruby](https://www.ruby-lang.org)
-- [Ruby on Rails](http://rubyonrails.org/)
-- [Fluentd](http://www.fluentd.org/)
-- [AWS](https://aws.amazon.com)
+<br/>
+<br/>
 
 
 
