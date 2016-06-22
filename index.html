@@ -7,9 +7,10 @@
 
     <!-- Loading Bootstrap -->
     <link href="css/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
     <!-- Loading Flat UI -->
     <link href="css/flat-ui.min.css" rel="stylesheet">
+    <!-- Loading animate -->
+    <link href="css/animate.css" rel="stylesheet">
 
     <link rel="shortcut icon" href="img/favicon.ico">
 
@@ -54,7 +55,7 @@
     </script>
 
     <div class="container">
-      <div class="text-center" id="markdown_content" src="./content.md"> </div>
+      <div class="text-center wow fadeIn" id="markdown_content" src="./content.md"> </div>
     </div>
     <!-- /.container -->
 
@@ -63,32 +64,18 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/vendor/video.js"></script>
     <script src="js/flat-ui.min.js"></script>
-
     <script src="js/marked.js"></script>
-    <script src="js/lockr.js"></script>
+    <script src="js/wow.min.js"></script>
 
     <script>
+      new WOW().init();
       $(function(){
-        // var pre_version     = '0.0.3';
-        // var current_version = '0.0.4';
-        var $target         = $("#markdown_content");
-
-        // if (Lockr.get(pre_version) != null) {
-        //   Lockr.rm(pre_version);
-        // }
-        //
-        // var content = Lockr.get(current_version);
-        // if (content != null) {
-        //   $target.append(content);
-        //   return;
-        // }
-
+        var $target = $("#markdown_content");
         $.ajax({
           url: $target.attr("src")
         }).done(function(data){
           var content = marked(data);
           $target.append(content);
-          // Lockr.set(current_version, content);
         }).fail(function(data){
           $target.append("This content failed to load.");
         });
